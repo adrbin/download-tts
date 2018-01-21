@@ -1,0 +1,15 @@
+{
+  "name": "download-tts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "download-tts.js",
+  "dependencies": {
+    "babyparse": "^0.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
